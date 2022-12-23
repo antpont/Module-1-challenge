@@ -1,10 +1,13 @@
 # Module-1-challenge
 
-## The 1st module challenge for bootcamp.
+## Description 
+*The 1st module challenge for bootcamp.
 
-## https://github.com/antpont/Module-1-challenge.git
+## Github repo link
+* https://github.com/antpont/Module-1-challenge.git
 
-##
+## Github pages url
+https://antpont.github.io/Module-1-challenge/
 
 ## 
 
