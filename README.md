@@ -7,6 +7,6 @@
 *https://github.com/antpont/Module-1-challenge.git
 
 ## Github pages url
-https://antpont.github.io/Module-1-challenge/
+*https://antpont.github.io/Module-1-challenge/
 
 
